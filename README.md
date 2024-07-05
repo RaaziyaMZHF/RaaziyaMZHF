@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raaziya Hussain</h1>
 <h3 align="center">Passionate Frontend Developer | Network & Cybersecurity Enthusiast | Undergraduate IT Student</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/cute-girl-hacker-laptop-avatar-cartoon-style-black-backdrop-generative-ai-cute-girl-hacker-laptop-avatar-cartoon-274478747.jpg">
+<img align="right" alt="Coding" width="200" src="https://thumbs.dreamstime.com/b/cute-girl-hacker-laptop-avatar-cartoon-style-black-backdrop-generative-ai-cute-girl-hacker-laptop-avatar-cartoon-274478747.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaziyamzhf&label=Profile%20views&color=0e75b6&style=flat" alt="raaziyamzhf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaziyamzhf" alt="raaziyamzhf" /></a> </p>
